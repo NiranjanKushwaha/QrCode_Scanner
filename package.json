@@ -8,8 +8,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "barcode-react-scanner": "1.2.0",
+    "react-qr-reader": "^2.2.1",
+    "react-qr-scanner": "1.0.0-alpha.7",
+    "react-scripts": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
